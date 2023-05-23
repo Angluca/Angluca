@@ -1,4 +1,4 @@
-![ch2](https://github.com/Angluca/Angluca/assets/156404/a3afa0e2-d36b-4374-a79f-b523bc72fc4f)
+![333](https://github.com/Angluca/Angluca/assets/156404/0cd7f0cf-379b-4641-938d-d08f420cc99e)
 
 <!--
 **Angluca/Angluca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
