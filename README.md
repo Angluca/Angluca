@@ -1,4 +1,4 @@
-### Hi there 👋
+![ch2](https://github.com/Angluca/Angluca/assets/156404/a3afa0e2-d36b-4374-a79f-b523bc72fc4f)
 
 <!--
 **Angluca/Angluca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![ch](https://github.com/Angluca/Angluca/assets/156404/da7ab9ba-24bf-4612-bb88-806df8851ba7)
